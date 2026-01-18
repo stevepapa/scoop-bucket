@@ -1,0 +1,6 @@
+﻿# Generated artifacts (kept or rewritten by GoReleaser)
+/bucket/*.json
+
+# Common
+.DS_Store
+Thumbs.db
