@@ -1,19 +1,19 @@
 {
-    "version": "1.0.5",
+    "version": "1.0.6",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/stevepapa/depaudit/releases/download/v1.0.5/depaudit_1.0.5_windows_amd64.zip",
+            "url": "https://github.com/stevepapa/depaudit/releases/download/v1.0.6/depaudit_1.0.6_windows_amd64.zip",
             "bin": [
                 "depaudit.exe"
             ],
-            "hash": "ad45e7d4ec296bc5fa3fba64bc8a2d4b30a30113d567bf2dd56f1ecb76709ec0"
+            "hash": "64727091deaf9ce7c18ed21ec4affa11be02d72e4e2537eee987aaa8a356d555"
         },
         "arm64": {
-            "url": "https://github.com/stevepapa/depaudit/releases/download/v1.0.5/depaudit_1.0.5_windows_arm64.zip",
+            "url": "https://github.com/stevepapa/depaudit/releases/download/v1.0.6/depaudit_1.0.6_windows_arm64.zip",
             "bin": [
                 "depaudit.exe"
             ],
-            "hash": "dc131a0174498c6b38baa3286abd6bb9c0ee0d25b00f45d43c60656aa4d433e8"
+            "hash": "bdfada2fe7deb8969628af67fb168c1fa11e3716024192cbc665b90895e425d2"
         }
     },
     "homepage": "https://github.com/stevepapa/depaudit",
