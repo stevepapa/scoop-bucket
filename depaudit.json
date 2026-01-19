@@ -1,0 +1,22 @@
+{
+    "version": "0.9.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/stevepapa/depaudit/releases/download/v0.9.0/depaudit_0.9.0_windows_amd64.zip",
+            "bin": [
+                "depaudit.exe"
+            ],
+            "hash": "4b7f9dd89067dd34098811fe50d86ec11596b263b7014975526b1b508a71c146"
+        },
+        "arm64": {
+            "url": "https://github.com/stevepapa/depaudit/releases/download/v0.9.0/depaudit_0.9.0_windows_arm64.zip",
+            "bin": [
+                "depaudit.exe"
+            ],
+            "hash": "84e6e4e13b5f8881afebc4e02f4a9aafc758747a97dddef3213e211953d3403f"
+        }
+    },
+    "homepage": "https://github.com/stevepapa/depaudit",
+    "license": "MIT",
+    "description": "Beautiful TUI for exploring JS dependency vulnerabilities"
+}
